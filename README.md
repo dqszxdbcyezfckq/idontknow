@@ -1,2 +1,2 @@
-# idontknow
-aaaaaaaa
+# Discord-RainbowRole
+# Coded in python
